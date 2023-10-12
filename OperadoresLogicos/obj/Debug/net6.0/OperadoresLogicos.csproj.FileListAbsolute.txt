@@ -1,0 +1,14 @@
+D:\platzi\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.exe
+D:\platzi\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.deps.json
+D:\platzi\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.runtimeconfig.json
+D:\platzi\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.dll
+D:\platzi\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.pdb
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfoInputs.cache
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfo.cs
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.dll
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\refint\OperadoresLogicos.dll
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.pdb
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.genruntimeconfig.cache
+D:\platzi\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\ref\OperadoresLogicos.dll
